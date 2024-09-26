@@ -73,3 +73,15 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 * Should display "Please show your card to staff to validate." after step 2.
 * Should display "Check IN" after step 4.
 
+# Module 5: Close status panel
+
+## Test steps
+1. Build and run CiCo.
+2. Enter 00000000 into the field and click update.
+3. Click the "Close" button on the status panel.
+
+## Expected results
+* Should display the user's checked-in or checked-out status after step 2.
+* Should display the main panel after step 3.
+
+
