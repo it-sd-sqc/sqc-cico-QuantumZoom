@@ -84,4 +84,12 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 * Should display the user's checked-in or checked-out status after step 2.
 * Should display the main panel after step 3.
 
+# Module 6: Update Color Scheme
 
+## Test steps
+1. Build and run CiCo.
+2. Enter 00000000 into the field and click Update.
+3. Enter 0 into the field and click Update.
+
+## Expected results
+* Color scheme on main, update, and error panel should be changed.
